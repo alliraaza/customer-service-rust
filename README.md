@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # customer-service-rust
 =======
 # customer-service
@@ -199,4 +198,3 @@ On Windows PowerShell, use `curl.exe` (plain `curl` is an alias for `Invoke-WebR
 - [ ] Multi-stage Dockerfile (distroless runtime image)
 - [ ] Kubernetes / OpenShift deployment manifests with probes
 - [ ] OpenAPI documentation
->>>>>>> 848623e (initial project baseline)
