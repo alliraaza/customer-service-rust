@@ -1,6 +1,4 @@
 # customer-service-rust
-=======
-# customer-service
 
 A REST microservice for managing customers, written in Rust with [summer-rs](https://spring-rs.github.io/), a Spring Boot-inspired application framework. It is a learning project that maps Spring Boot concepts (plugins, dependency injection, externalized configuration, layered design) onto the Rust ecosystem.
 
